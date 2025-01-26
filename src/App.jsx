@@ -1,5 +1,6 @@
 import './App.css'
 import CookieCount from './components/CookieCount';
+import Button from './components/Button';
 
 export default function App() {
 
@@ -9,6 +10,10 @@ export default function App() {
       Poke Clicker
     </h1>
     <CookieCount/>
+
+    <div>
+      <Button />
+    </div>
     </>
   );
 }
