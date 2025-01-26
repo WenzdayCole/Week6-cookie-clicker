@@ -1,8 +1,3 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+So, I'm actually happy this time with the progress. Even though it's not finished, it works alot better than my previous cookie clicker. I'm happy that this time, with help from Manny, Joe, some info in the discord and my own research I was able to display the cookie counts and make a working image button. I probably could attempt to fetch the upgrades from the API, but I want to take it easy this evening and prepare myself for another full week of coding. I will go back to all my old assignments and complete them as practice after the bootcamp if I don't find any work as soon as I would like. I tried to do some CSS but once again Flex-Box was a misbaving so I gave up on it too. 
