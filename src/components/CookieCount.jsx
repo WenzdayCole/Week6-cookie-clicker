@@ -23,7 +23,7 @@
 
 import React, { useState, useEffect } from "react";
 
-export default function CookieCount(props) {
+export default function CookieCount() {
   console.log("CookieCount component render");
 
   const [count, setCount] = useState(0); 
@@ -41,10 +41,10 @@ return () => {
 
 
 return (
-    <>
-    {/* <p>Pokemon per second:</p>  do something with the cps  */}
-    </>
+    <div>
+   <p>Pokemon per second:</p> {CookieCount}
+   {cps}
+   </div>   
 )
-
 
 };
